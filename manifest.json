@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "DisTrO",
+  "versions": [
+    {
+      "commit": "24f10628c28692c01e7d282823fd158140b4bcee",
+      "parsed_at": "2026-10-01T06:18:23.926172+00:00",
+      "tag": "main",
+      "filetree": "filetree/24f10628c28692c01e7d282823fd158140b4bcee.nq.gz",
+      "blobs": [
+        "blob/56d6d59c303d8ee946242625b997b1bd231cbe82.nq.gz",
+        "blob/fb957249c68878e437f32b92ed5b4712ffd37e75.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
