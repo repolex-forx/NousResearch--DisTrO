@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/DisTrO/commit/24f10628c28692c01e7d282823fd158140b4bcee",
       "git:hexsha": "24f10628c28692c01e7d282823fd158140b4bcee",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
